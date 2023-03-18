@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615840771622",
+    "project_id": "unconsumed-food-management-1",
+    "storage_bucket": "unconsumed-food-management-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615840771622:android:8e829e29ba29645cd9c0e7",
+        "android_client_info": {
+          "package_name": "com.example.unconsumedfoodmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615840771622-1bo2elfdfduthl4o9gv0gdn7nfkdodh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGADjTVBMGyOhR3ZFTX2syIEUGTEEQGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615840771622-1bo2elfdfduthl4o9gv0gdn7nfkdodh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
